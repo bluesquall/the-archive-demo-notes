@@ -1,5 +1,5 @@
 ---
-alias: 201705120913
+alias: "201705120913"
 ---
 
 # 201705120913 The plain text approach

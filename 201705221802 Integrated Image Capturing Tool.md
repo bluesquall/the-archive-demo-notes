@@ -1,5 +1,5 @@
 ---
-alias: 201705221802
+alias: "201705221802"
 ---
 
 # 201705221802 Integrated Image Capturing Tool

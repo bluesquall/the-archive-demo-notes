@@ -1,5 +1,5 @@
 ---
-alias: 201705111034
+alias: "201705111034"
 ---
 
 # 201705111034 Luhmanns Zettelkasten

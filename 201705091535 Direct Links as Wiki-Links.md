@@ -1,5 +1,5 @@
 ---
-alias: 201705091535
+alias: "201705091535"
 ---
 
 # 201705091535 Direct Links as Wiki-Links
