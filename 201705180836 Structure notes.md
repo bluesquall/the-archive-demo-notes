@@ -1,3 +1,7 @@
+---
+alias: 201705180836
+---
+
 # 201705180836 Structure notes 
 #StructureNotes #archiveapp-demo 
 

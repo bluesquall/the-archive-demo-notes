@@ -1,3 +1,7 @@
+---
+alias: 201705120916
+---
+
 # 201705120916 Our reasons for Software Agnosticism
 #archiveapp-demo #software
 

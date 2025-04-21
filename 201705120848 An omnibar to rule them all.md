@@ -1,3 +1,7 @@
+---
+alias: 201705120848
+---
+
 # 201705120848 An Omnibar to rule them all
 #archiveapp-demo #search
 

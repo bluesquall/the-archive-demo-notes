@@ -1,3 +1,7 @@
+---
+alias: 201705221802
+---
+
 # 201705221802 Integrated Image Capturing Tool
 #images #archiveapp-demo
 

@@ -1,3 +1,7 @@
+---
+alias: 201705110956
+---
+
 # 201705110956 History of the Method
 #archiveapp-demo #Luhmann #ZettelkastenMethod #written-by-sascha
 

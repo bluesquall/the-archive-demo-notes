@@ -1,3 +1,7 @@
+---
+alias: 201705180756
+---
+
 # 201705180756 How to tag properly
 #tags #archiveapp-demo
 

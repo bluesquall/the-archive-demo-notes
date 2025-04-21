@@ -1,3 +1,7 @@
+---
+alias: 201705111034
+---
+
 # 201705111034 Luhmanns Zettelkasten
 #Luhmann #Zettelkasten #archiveapp-demo 
 

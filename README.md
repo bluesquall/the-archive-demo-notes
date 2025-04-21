@@ -1,3 +1,7 @@
+---
+alias: README.md
+---
+
 # The Archive: A Demo Zettelkasten
 
 A small Zettelkasten of interconnected notes about the Zettelkasten Method and [The Archive](https://zettelkasten.de/the-archive/)

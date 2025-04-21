@@ -1,3 +1,7 @@
+---
+alias: 201801232029
+---
+
 # 201801232029 Note identifiers and The Archive
 #id #archiveapp-demo
 

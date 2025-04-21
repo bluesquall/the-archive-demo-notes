@@ -1,3 +1,7 @@
+---
+alias: 201801020926
+---
+
 # 201801020926 Creating notes in The Archive
 #archive #creation
 

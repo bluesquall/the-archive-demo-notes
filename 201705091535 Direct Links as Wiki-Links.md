@@ -1,3 +1,7 @@
+---
+alias: 201705091535
+---
+
 # 201705091535 Direct Links as Wiki-Links
 #connection #link #ZettelkastenMethod #archiveapp-demo
 
